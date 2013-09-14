@@ -1,0 +1,12 @@
+{
+  "name": "factorial",
+  "repo": "KenanY/factorial",
+  "description": "Get factorial of a number",
+  "version": "0.0.2",
+  "keywords": ["math"],
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "license": "MIT"
+}
